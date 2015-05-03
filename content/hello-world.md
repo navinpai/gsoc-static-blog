@@ -18,7 +18,7 @@ I'm going to be working with the fine people at the DBpedia project *(to be more
 For a quick overview of my project, visit [my project proposal page][1].
 
 
-Other quick link are in the left menu.
+Other quick links are in the left menu.
 
 
 [1]: https://www.google-melange.com/gsoc/project/details/google/gsoc2015/lifeofnavin/5676830073815040
